@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 👨🏻‍💻 JasonDevelops.com 
+title: 👨‍💻JasonDevelops.com
 
 # Short description of your site
 description: Personal Web Site of Jason Devore
@@ -23,7 +23,7 @@ description: Personal Web Site of Jason Devore
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me🧐: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
